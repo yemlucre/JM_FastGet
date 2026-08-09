@@ -38,7 +38,7 @@ pip install img2pdf
 
 ### 方式一：双击批处理
 
-直接双击 `Load_cartoon.bat`，它会自动运行 `auto_jm.py`。
+直接双击 `Load_cartoon.bat`，它会自动运行 `auto_jm.py`，无需手动打开命令行，之后按屏幕提示操作即可。
 
 ### 方式二：命令行运行
 

@@ -2,7 +2,7 @@
 
 > An all-in-one toolkit that automatically downloads JM comics and converts them into PDFs.
 
-English | **[简体中文](README_zh.md)**
+**[简体中文](README.md)** | English
 
 ---
 
@@ -72,8 +72,7 @@ JM_FastGet/
 ├── auto_jm.py          # Main script: preview, download, move & convert
 ├── webp2pdf.py         # Merge WebP images into PDF by numeric order
 ├── Load_cartoon.bat    # Windows double-click launcher
-├── README.md           # Language selection page
-├── README_zh.md        # 中文说明文档
+├── README.md           # 中文说明文档（默认）/ Chinese documentation (default)
 └── README_en.md        # English documentation
 ```
 

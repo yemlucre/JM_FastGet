@@ -1,6 +1,6 @@
 # JM_FastGet
 
-[English](README_en.md) | 简体中文
+[English](README_en.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja.md) | 简体中文
 
 > 自动下载 JM 漫画并快速转换为 PDF 的一体化工具集。
 
@@ -72,8 +72,10 @@ JM_FastGet/
 ├── auto_jm.py          # 主脚本：预览、下载、移动、转 PDF 全流程
 ├── webp2pdf.py         # 将 WebP 图片按序号合并为 PDF
 ├── Load_cartoon.bat    # Windows 双击启动脚本
-├── README.md           # 中文说明文档（默认）
-└── README_en.md        # English documentation
+├── README.md           # 简体中文说明文档（默认）
+├── README_en.md        # English documentation
+├── README_zh-TW.md     # 繁體中文說明文件
+└── README_ja.md        # 日本語のドキュメント
 ```
 
 ## 注意事项
@@ -92,4 +94,4 @@ JM_FastGet/
 
 ---
 
-[English Version](README_en.md)
+[English Version](README_en.md) | [繁體中文版](README_zh-TW.md) | [日本語版](README_ja.md)
